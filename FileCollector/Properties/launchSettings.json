@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FileCollector": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Data\\Source\\Repos"
+    }
+  }
+}

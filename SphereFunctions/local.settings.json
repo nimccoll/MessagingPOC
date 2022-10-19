@@ -1,0 +1,14 @@
+{
+    "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "AzureQueueStorage": "{your storage account connection string}",
+    "ida:ClientId": "{your Azure AD Client ID for the SharePointCollector}",
+    "ida:ClientSecret": "{your Azure AD Client Secret for the SharePointCollector}",
+    "ida:Authority": "https://login.microsoftonline.com",
+    "ida:Tenant": "{your Azure AD tenant}",
+    "ida:GraphResourceId": "https://graph.microsoft.com",
+    "SharePointHost": "{your SharePoint Online host}"
+  }
+}
